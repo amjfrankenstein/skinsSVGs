@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="594mm"
+   height="841mm"
+   viewBox="0 0 594 841"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="E6540_LID_NEW.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-87.142857"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,544)">
+    <g
+       id="g918"
+       transform="matrix(0.26458333,0,0,0.26458333,-107.61687,-958.47687)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.76226878;stroke-miterlimit:3.54049993"
+         d="m 2103.2874,3232.4829 0.1187,37.4128 H 868.26555 l 0.11809,-37.2792"
+         class="st0"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect13_9_" />
+      <path
+         sodipodi:nodetypes="csscsccssssc"
+         id="rect3717_9_"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 2103.2874,3232.4829 50.8524,0.2169 c 24.7007,0.1054 44.6516,21.4749 44.6516,48.1703 v 842.981 c 0.1188,26.5767 -19.8321,48.2674 -44.5328,48.1703 l -53.4172,-0.2099 m -1230.7919,0 -50.70789,0.2099 C 794.64093,4172.1236 774.69,4150.5465 774.69,4123.8511 v -842.981 c 0,-26.6954 19.95072,-48.149 44.65161,-48.1703 l 49.04208,-0.042"
+         style="fill:none;stroke:#000000;stroke-width:0.77997136;stroke-miterlimit:3.54049993" />
+      <path
+         id="path4524_9_"
+         inkscape:connector-curvature="0"
+         class="st3"
+         d="m 1410.6407,3702.6028 c 0,-41.5013 33.7387,-75.2281 75.228,-75.2281 41.4895,0 75.2282,33.6124 75.2282,75.2281 0,41.6156 -33.7387,75.2281 -75.2282,75.2281 -41.4893,0 -75.228,-33.7269 -75.228,-75.2281 z"
+         style="fill:none;stroke:#000000;stroke-width:0.72482806;stroke-miterlimit:3.54049993" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.25116284;stroke:#000000;stroke-width:1.33417332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 870.0495,4171.8115 v -39.68 c 0,-10.4693 8.42835,-18.8976 18.89764,-18.8976 H 2081.9437 c 10.4693,0 18.8977,8.4283 18.8977,18.8976 v 39.68"
+         id="rect907"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssssc" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:0.25116284;stroke:#000000;stroke-width:1.33417332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 891.23653,4116.3699 H 2080.6741 c 10.4693,0 16.8976,6.4283 16.8976,16.8976 -0.055,10.8944 0.072,26.4998 0.1702,37.3935 H 874.8806 c -0.48727,-10.8914 -0.54167,-26.4949 -0.54167,-37.3935 0,-10.4693 6.42833,-16.8976 16.8976,-16.8976 z"
+         id="rect910"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccccs" />
+    </g>
+  </g>
+  <style
+     id="style2"
+     type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.8612;stroke-miterlimit:3.5405;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.8847;stroke-miterlimit:3.5405;}
+	.st2{fill:none;stroke:#000000;stroke-width:0.8812;stroke-miterlimit:3.5405;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.8189;stroke-miterlimit:3.5405;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.8555;stroke-miterlimit:3.5405;}
+</style>
+</svg>
